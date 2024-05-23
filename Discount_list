@@ -1,7 +1,12 @@
 [
   {
     "name": "چراغ ۱۲ وات مدل ..",
-    "img": "https://biaupload.com/do.php?imgf\u003dorg-078f2679d0791.jpg",
+    "image": "https://biaupload.com/do.php?imgf\u003dorg-078f2679d0791.jpg",
+    "amount": "۱۷۰,۰۰۰"
+  },
+  {
+    "name": "چراغ ۱۲ وات مدل ..",
+    "image": "https://biaupload.com/do.php?imgf\u003dorg-078f2679d0791.jpg",
     "amount": "۱۷۰,۰۰۰"
   }
 ]
